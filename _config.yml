@@ -1,4 +1,3 @@
-layout_spectrum: 0.010834083193913102
 typography_spectrum: 0.5824599789921194
 color:
   brandStrength: 0.7296719271689653
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.010834083193913102
 name: Legit Title Loans
 title: Fast and easy title loans
+description: '"Need money for a rainy day...it''s raining!"'
